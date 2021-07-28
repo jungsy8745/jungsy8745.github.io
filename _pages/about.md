@@ -15,4 +15,4 @@ My research agenda centers on the formal and substantive aspect of citizenship. 
 
 Another stream of research interest is the role of dual citizenship on state attachment and political participation. For the measure of state attachment, I use both self-reported and implicit self-state associations.
 
-Here is my [CV] (jungsy8745.github.io/cv_seyoungjung.pdf)
+Here is my [CV] (http://seyoungjung.com/cv_seyoungjung.pdf)
