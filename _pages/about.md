@@ -15,11 +15,4 @@ My research agenda centers on the formal and substantive aspect of citizenship. 
 
 Another stream of research interest is the role of dual citizenship on state attachment and political participation. For the measure of state attachment, I use both self-reported and implicit self-state associations.
 
-## Research
-
-### Publications
-2020\. "Implicit and explicit state attachment among single and dual American citizens." _Politics, Groups, and Identities_ (with Aleksander Ksiazkiewicz)
-
-2020\. “Biology and Decision Making.” In D.P. Redlawsk (Ed.) _Oxford Research Encyclopedia of Politics_ (with Aleksander Ksiazkiewicz)
-
-2014\. “Continuity and Variation of Perception on North Korea: Regarding Its Stereotypic Tendency,” Korea and World Politics (with Yongho Kim) (in Korean)
+Here is my CV /cv_seyoungjung.pdf/
