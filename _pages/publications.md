@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  2020\. "Implicit and explicit state attachment among single and dual American citizens." _Politics, Groups, and Identities_ (with Aleksander Ksiazkiewicz) <u><a href="{{https://doi.org/10.1080/21565503.2020.1789884}}">Link</a>.</u>
 {% endif %}
 
 {% include base_path %}
