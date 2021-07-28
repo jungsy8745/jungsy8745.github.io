@@ -5,12 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  2020\. "Implicit and explicit state attachment among single and dual American citizens." _Politics, Groups, and Identities_ (with Aleksander Ksiazkiewicz) <u><a href="{{https://doi.org/10.1080/21565503.2020.1789884}}">Link</a>.</u>
-{% endif %}
+2020\. "Implicit and explicit state attachment among single and dual American citizens." _Politics, Groups, and Identities_ (with Aleksander Ksiazkiewicz)
 
-{% include base_path %}
+2020\. “Biology and Decision Making.” In D.P. Redlawsk (Ed.) _Oxford Research Encyclopedia of Politics_ (with Aleksander Ksiazkiewicz)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+2014\. “Continuity and Variation of Perception on North Korea: Regarding Its Stereotypic Tendency,” Korea and World Politics (with Yongho Kim) (in Korean)
