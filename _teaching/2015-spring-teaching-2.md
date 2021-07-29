@@ -8,13 +8,10 @@ date: 2015-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+### Teaching Assistant
+Department of Political Science, University of Illinois at Urbana-Champaign
+  2017 Fall, PS240 Intro to Comparative Politics (Professor Carol Leff)
+  2016 Fall & 2017 Spring, PS100 Intro to Political Science (Professor Aleksander Ksiazkiewicz)
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Department of Political Science, University of Yonsei 
+  2014 Fall, Global Leadership (Professor Yongho Kim)
