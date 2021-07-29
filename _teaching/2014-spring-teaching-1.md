@@ -8,7 +8,7 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-###Instructor
+### Instructor
 
 Department of Political Science, University of Illinois at Urbana-Champaign
 2021 Spring, 2020 Summer & Fall PS201 US Racial and Ethnic Politics (Online). 2021 Summer PS385 Politics of the European Union (Online).
