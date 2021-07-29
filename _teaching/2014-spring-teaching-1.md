@@ -8,13 +8,7 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+###Instructor
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Department of Political Science, University of Illinois at Urbana-Champaign
+2021 Spring, 2020 Summer & Fall PS201 US Racial and Ethnic Politics (Online). 2021 Summer PS385 Politics of the European Union (Online).
