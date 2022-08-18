@@ -20,6 +20,6 @@ Department of Political Science, University of Yonsei
 
 ### Sample Syllabi
 These are sample syllabi of courses that I plan to teach in the future. 
-* [Racial and Ethnic Politics (Undergraduate Course)](http://seyoungjung.com/Race and Ethnic Politics.pdf)
+* [Racial and Ethnic Politics (Undergraduate Course)](jungsy8745.github.io/Racial and Ethnic Politics.pdf)
 
 * [Political Psychology (Graduate Course)](http://seyoungjung.com/Political Psychology.pdf)
